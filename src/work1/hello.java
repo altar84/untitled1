@@ -6,5 +6,6 @@ public class hello {
         System.out.println("work1 started");
         System.out.println( "Created git" );
         System.out.println("Made few commits");
+        System.out.println("new commit");
     }
 }
